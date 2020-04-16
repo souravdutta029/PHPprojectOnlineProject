@@ -1,0 +1,27 @@
+<div class="col-md-4 col-sm-6 center-responsive">  <!--col-md-4 col-sm-6 starts-->
+					<div class="product">
+						<a href="details.php">
+							<img src="admin/product_images/product7.jpg" alt="" class="img-responsive">
+						</a>
+						<div class="text">
+							<h3>
+								<a href="details.php">
+									Mardaz Pack of 5 
+								</a>
+							</h3>	
+							<p class="price">INR 599</p>	
+							<p class="buttons">
+								<a href="details.php" class="btn btn-default">View Details</a>
+								<a href="details.php" class="btn btn-primary"><i class="fa fa-shopping-cart"> Add to Cart</i></a>								
+							</p>					
+						</div>						
+					</div>
+				</div>		 <!--col-md-4 col-sm-6 ends-->	
+
+
+                //pagination
+                    <li><a href="shop.php">prev</a></li>
+					<li><a href="shop.php">1</a></li>
+					<li><a href="shop.php">2</a></li>
+					<li><a href="shop.php">3</a></li>
+					<li><a href="shop.php">next</a></li>
